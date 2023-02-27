@@ -1,6 +1,7 @@
 import React from 'react';
+import "./mycomp.css";
 
-const MyComponents = () => {
+const Mycomp = () => {
     return (
         <div className={"mycomp"}>
             Zhukova Liza
@@ -8,4 +9,4 @@ const MyComponents = () => {
     );
 };
 
-export default MyComponents;
+export default Mycomp;
